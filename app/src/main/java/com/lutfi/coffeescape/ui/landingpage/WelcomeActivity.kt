@@ -1,12 +1,12 @@
-package com.lutfi.coffeescape.view
+package com.lutfi.coffeescape.ui.landingpage
 
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
 import com.lutfi.coffeescape.R
 
-class SplashActivity : AppCompatActivity() {
+class WelcomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splash)
+        setContentView(R.layout.activity_welcome)
     }
 }
