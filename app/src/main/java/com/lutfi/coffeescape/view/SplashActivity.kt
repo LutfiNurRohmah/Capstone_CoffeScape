@@ -1,4 +1,4 @@
-package com.lutfi.coffeescape.ui
+package com.lutfi.coffeescape.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
