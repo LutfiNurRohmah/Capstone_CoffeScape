@@ -25,4 +25,24 @@
     <string name="hint_confirm_password">Confirm your password</string>
     <string name="forgot_password">Forgot password?</string>
     <string name="title_activity_welcome">WelcomeActivity</string>
+
+    <string name="placeholder_search">Search your coffee</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="register_fail">Registration failed</string>
+    <string name="register_success">Registration success</string>
+    <string name="confirm">Please confirm your password</string>
+    <string name="confirm_not_same">Passwords do not match</string>
+    <string name="back">Back</string>
+    <string name="login_fail">Login failed</string>
+    <string name="login_success">Login success</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="your_favorite_coffee">Your Favorite Coffee</string>
+    <string name="image_coffee">Image Coffee</string>
+    <string name="best_coffee_for_you">Best Coffee For You</string>
+    <string name="coffee_drinks_for_you">Coffee Drinks For You</string>
+    <string name="recently_opened_coffee">Recently Opened Coffee</string>
+    <string name="coffee_s_image">Coffee\'s Image</string>
+    <string name="detail_coffee">Detail Coffee</string>
 </resources>
